@@ -21,3 +21,5 @@ Will become a sub heading
 - This will be a list item
 
     Add a indent and this will end up as code
+
+![alt text](http://www.malgreve.net/wp-content/uploads/2014/02/GitHub-Create-New-Repository.png "Title")
